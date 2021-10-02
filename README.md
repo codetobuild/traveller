@@ -2,6 +2,8 @@
 
 This is a Responsive Website Landing page built with Reactjs.
 
+Demo [Link to view Project on live](https://traveller-nokha.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:

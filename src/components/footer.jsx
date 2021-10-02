@@ -71,13 +71,6 @@ function Footer() {
           <small class="website-rights">Traveller © 2021</small>
           <div class="social-icons">
             <Link
-              class="social-icon-link instagram"
-              to="/"
-              target="_blank"
-              aria-label="Instagram">
-              <i class="fab fa-instagram" />
-            </Link>
-            <Link
               class="social-icon-link youtube"
               to="/"
               target="_blank"
@@ -90,6 +83,13 @@ function Footer() {
               target="_blank"
               aria-label="Twitter">
               <i class="fab fa-twitter" />
+            </Link>
+            <Link
+              class="social-icon-link github"
+              to="/"
+              target="_blank"
+              aria-label="">
+              <i class="fab fa-github"></i>
             </Link>
             <Link
               class="social-icon-link linkedin"

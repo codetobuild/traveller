@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Traveller
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Responsive Website Landing page built with Reactjs.
 
 ## Available Scripts
 

@@ -86,7 +86,9 @@ function Footer() {
             </Link>
             <Link
               class="social-icon-link github"
-              to="/"
+              to={{
+                pathname: "https://github.com/codetobuild/traveller",
+              }}
               target="_blank"
               aria-label="">
               <i class="fab fa-github"></i>
